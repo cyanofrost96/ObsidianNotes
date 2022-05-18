@@ -1,0 +1,6 @@
+Photonen werden in einen dotierte [[Halbleiter]] eindringen, trifft ein Atom und erzeugen dadurch [[Elektron-Loch-Paare]]. Diese wird von der in dem Material entstehende Ladungsunterschied heißt [[Raum-Ladung-Zone]] getrennt. Das heißt die freien Elektronen können nicht von einer Seite, auf den anderen einfach durchdringen. Solange es kein anderer Weg gibt, bildet sich eine elektrische Potenntial zwischen den beiden Zonen.
+
+Die frei gewordenen [[Elektron]]en suchen dann für sich einen Weg, in irgendeinem [[Loch]] wieder reinzukommen. Dieser Vorgang wird als [[Rekombination]] genannt.
+Die Bewegung zur Rekombination dieser Elektronen ist das was wir als [[Photostrom]] (I_ph) angeben. 
+
+In idealer Fall sollte I_ph direkt proportional zur [[Bestrahlungsstärke]] verhalten. Ideal wäre es, wenn der Emmision in der n-dotierte Zone passieren, da dadurch die Elektronen einen Umweg durch das Kabel rumfahren muss, bevor es mit den Löchern in die p-dotierte Zone rekombinieren kann. Nun könnte es sein dass die Erzeugung dieser ELP in der p-dotierte Zone passieren, wobei das Elektron ohne durch das Kabel sich rekombinieren kann! Das heißt, der gemessenen Strom in dem Kabel zwischen + und - Pol ist nicht immer 100% = der I_ph

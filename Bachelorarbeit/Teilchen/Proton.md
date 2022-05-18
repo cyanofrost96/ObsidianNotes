@@ -1,0 +1,1 @@
+positiv geladenen Teilchen. besteht aus Quarks

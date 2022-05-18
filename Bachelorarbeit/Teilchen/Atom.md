@@ -1,0 +1,1 @@
+laut vielen klassichen Leuten waren Atom die unteilbare Teilchen eines Stücks.

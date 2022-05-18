@@ -1,0 +1,1 @@
+Ein Prozess (kann physisch oder chemisch sein) von einer der 7 basische [[Energie]] auf einem Anderen umgewandelt werden

@@ -1,0 +1,1 @@
+sind die minus geladenen Teilchen, die rund um einem [[Atomkern]] in bestimmten Bahn umkreisen.

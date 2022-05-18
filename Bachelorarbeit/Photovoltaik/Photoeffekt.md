@@ -1,0 +1,1 @@
+ist ein Begriff für die [[Energieumwandlung]] von Licht in Elektrizität oder andersrum.

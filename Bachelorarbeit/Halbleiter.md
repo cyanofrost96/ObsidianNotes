@@ -1,0 +1,1 @@
+ein Material, das elektrisch schlecht leiten kann, aber nicht komplett nicht leitend. Solches Material besteht normalerweise aus der 4. A-Gruppe der [[Periodentabelle]]. Halbleiter bilden normallerweise ein stabiler merkbaren [[Gitterstruktur]].
